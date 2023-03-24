@@ -18,7 +18,7 @@ author:
 # Hero Settings
 hero:
   title: Kevin Jeswani
-  description: Data Science | Engineering Automation.
+  description: Data Science | Engineering Automation
   image: '/images/1001.jpg'
 
 
@@ -36,7 +36,7 @@ contact:
 # Footer section
 # Example of adding a new link to the footer - {icon: "ion-logo-github", link: "https://github.com"}
 # Other icons can be found at https://ionicons.com/v4/
-socials:
+social:
 - {icon: "ion-logo-linkedin", link: "linkedin.com/in/kevinjeswani"}
 #- {icon: "ion-logo-facebook", link: "https://facebook.com"}
 #- {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
