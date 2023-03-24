@@ -26,7 +26,7 @@ hero:
 # Contact Settings
 contact:
   email:  # not available for now - create business one
-  description: Hit me up here or on LinkedIn!, link: "linkedin.com/in/kevinjeswani" # Add a description of your form
+  description: Hit me up here or on LinkedIn!, link: "https://linkedin.com/in/kevinjeswani" # Add a description of your form
 
 # NOTE
 # Norlin theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
@@ -37,7 +37,7 @@ contact:
 # Example of adding a new link to the footer - {icon: "ion-logo-github", link: "https://github.com"}
 # Other icons can be found at https://ionicons.com/v4/
 social:
-- {icon: "ion-logo-linkedin", link: "linkedin.com/in/kevinjeswani"}
+- {icon: "ion-logo-linkedin", link: "https://linkedin.com/in/kevinjeswani"}
 #- {icon: "ion-logo-facebook", link: "https://facebook.com"}
 #- {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 #- {icon: "ion-logo-instagram", link: "https://instagram.com"}
