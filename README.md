@@ -1,4 +1,4 @@
-# Data Science Projects
+# Kevin Jeswani - Data Science Projects
 
 # [Project 1: Big Twitter Topic Modelling (Clustering) & Sentiment (Classification)](https://github.com/kevinjeswani/BigTwitter_Clustering-Classification)
 Topic modelling and sentiment analysis on big twitter data (4-55mil. tweets)
