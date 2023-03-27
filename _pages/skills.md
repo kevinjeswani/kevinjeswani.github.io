@@ -223,7 +223,7 @@ Currently working on honing my knowledge of deep-learning and MLOps.
     </div>
 </div>
 
-# Viz & BI
+# Viz & BI:
 <div class="skill skill-small">
     <h3>
         <span class="skill_name">Seaborn, MatPlotLib, Plotly, Viola</span>
