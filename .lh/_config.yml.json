@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 3,
+            "activePatchIndex": 5,
             "patches": [
                 {
                     "date": 1679911103162,
@@ -20,6 +20,14 @@
                 {
                     "date": 1679916610251,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -16,10 +16,10 @@\n \n #-------------------------------\n # Hero Settings\n hero:\n-  title: Kevin Jeswani\n-  description: Data Science | Engineering Automation (WEB)\n+  title: Kevin Jeswani (under construction)\n+  description: Data Science | Engineering Automation \n   image: '/images/1001.jpg'\n \n \n #-------------------------------\n"
+                },
+                {
+                    "date": 1679926171298,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -42,9 +42,9 @@\n #- {icon: \"ion-logo-dribbble\", link: \"https://dribbble.com\"}\n #- {icon: \"ion-logo-instagram\", link: \"https://instagram.com\"}\n #- {icon: \"ion-logo-pinterest\", link: \"https://pinterest.com\"}\n #- {icon: \"ion-logo-youtube\", link: \"https://youtube.com\"}\n-- {icon: \"ion-logo-github\", link: \"kevinjeswani.github.io\"}\n+- {icon: \"ion-logo-github\", link: \"https://kevinjeswani.github.io\"}\n #- {icon: \"ion ion-logo-vimeo\", link: \"https://vimeo.com/\"}\n \n \n #-------------------------------\n"
+                },
+                {
+                    "date": 1679926190009,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -42,9 +42,9 @@\n #- {icon: \"ion-logo-dribbble\", link: \"https://dribbble.com\"}\n #- {icon: \"ion-logo-instagram\", link: \"https://instagram.com\"}\n #- {icon: \"ion-logo-pinterest\", link: \"https://pinterest.com\"}\n #- {icon: \"ion-logo-youtube\", link: \"https://youtube.com\"}\n-- {icon: \"ion-logo-github\", link: \"https://kevinjeswani.github.io\"}\n+- {icon: \"ion-logo-github\", link: \"https://https://github.com/kevinjeswani\"}\n #- {icon: \"ion ion-logo-vimeo\", link: \"https://vimeo.com/\"}\n \n \n #-------------------------------\n"
                 }
             ],
             "date": 1679911103162,

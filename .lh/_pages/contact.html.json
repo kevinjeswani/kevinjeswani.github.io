@@ -1,0 +1,22 @@
+{
+    "sourceFile": "_pages/contact.html",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 1,
+            "patches": [
+                {
+                    "date": 1679926211367,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1679926220899,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,9 +1,9 @@\n ---\n layout: page\n title: Contact Me\n permalink: /contact/\n-image: '/images/.jpg'\n+image: '/images/1006.jpg'\n ---\n <div class=\"form-container\">\n   {% if site.contact.description %}\n   <p class=\"contact-description\">{{site.contact.description}}</p>\n"
+                }
+            ],
+            "date": 1679926211367,
+            "name": "Commit-0",
+            "content": "---\nlayout: page\ntitle: Contact Me\npermalink: /contact/\nimage: '/images/.jpg'\n---\n<div class=\"form-container\">\n  {% if site.contact.description %}\n  <p class=\"contact-description\">{{site.contact.description}}</p>\n  {% endif %}\n  <form class=\"form\"\n    action=\"{% if site.contact.email %}https://formspree.io/{{site.contact.email}}{% else %}#{% endif %}\" method=\"POST\">\n    <div class=\"form__group\">\n      <label class=\"form__label screen-reader-text\" for=\"form-name\">Your Name</label>\n      <input class=\"form__input\" id=\"form-name\" type=\"text\" name=\"name\" placeholder=\"Name\" required>\n    </div>\n    <div class=\"form__group\">\n      <label class=\"form__label screen-reader-text\" for=\"form-email\">Your Email</label>\n      <input class=\"form__input\" id=\"form-email\" type=\"email\" name=\"_replyto\" placeholder=\"Email\" required>\n    </div>\n    <div class=\"form__group\">\n      <label class=\"form__label screen-reader-text\" for=\"form-text\">Your Message</label>\n      <textarea class=\"form__input\" id=\"form-text\" name=\"text\" rows=\"10\" placeholder=\"Message\" required></textarea>\n    </div>\n    <div class=\"form__group\">\n      <button class=\"button button--primary\" type=\"submit\">Send Message</button>\n    </div>\n    <input type=\"hidden\" name=\"_next\" value=\"{{ site.baseurl }}/contact/thanks/\" />\n  </form>\n  <hr>\n</div>"
+        }
+    ]
+}
