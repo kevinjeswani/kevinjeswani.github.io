@@ -11,7 +11,7 @@ Foreign Exchange Rate Forecasting
 -	Locally-warehoused 11gb of financial API stock/ ForEx data by parallelizing API calls in Dask and storage in SQLite
 -	Developed additional normalized financial technical indicators to create exogenous variable time-series
 -	Studied classical forecasting techniques (ARIMA, VARMAX) to determine ForEx trend and seasonality dependence
--	Performed a grid-search cross-validation hyperparamter tuning of XGBoost, RandomForest, CatBoost, & LGBoost time-series regressors (SkForecast) and built a LSTM-RNN (PyTorch-Keras) regressor, incorporating exogenous variables
+-	Performed a grid-search cross-validation hyperparamter tuning of XGBoost, RandomForest, CatBoost, & LGBoost time-series regressors (SkForecast) and built a LSTM-RNN (PyTorch-Keras) regressor, incorporating exogenous variables <br>
 	IN PROGRESS: 
 - Upgrading forecasting framework with GluonTS
 - Application to tech and semiconductor stocks
