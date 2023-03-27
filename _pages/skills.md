@@ -63,7 +63,7 @@ Currently working on honing my knowledge of deep-learning and MLOps.
         <span class="skill_name">Python, Matlab</span>
     </h3>
     <div class="skill_bar">
-        <div class="skill_active" style="width: 85%;">
+        <div class="skill_active" style="width: 90%;">
         </div>
         <span>90%</span>
     </div>
