@@ -5,7 +5,7 @@ description: Historical sales analysis and demand forecasting for a real Activew
 date:   2023-03-05 15:00:00 +0800
 image:  '/images/1002.jpg'
 tags:   [timeseries,NLP,BI]
-featured: true
+featured: false
 ---
 
 - Examined $1.5 mil. of sales data of a recently-acquired activewear firm to provide the new owner with insight on current/historical product lines with highest sales and regions with greatest concentration of sales, to streamline future product offerings/development and for region-/demographics-specific marketing

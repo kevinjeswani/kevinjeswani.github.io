@@ -5,7 +5,7 @@ description: Topic modelling and sentiment analysis on big twitter data (4-55mil
 date:   2023-03-04 15:00:00 +0800
 image:  '/images/1013.jpg'
 tags:   [NLP,classification,clustering,spark,big-data]
-featured: true
+featured: false
 ---
 
 - Streamed tweets into AWS S3 with Kinesis Firehose and combined it with a larger 55 mil.-tweet dataset (Not covered in this repo)
