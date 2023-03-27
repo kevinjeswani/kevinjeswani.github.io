@@ -11,14 +11,14 @@ url: "kevinjeswani.github.io" # The base hostname & protocol for your site, e.g.
 # Author Settings
 author:
   name: Kevin Jeswani
-  avatar: '/images/1008.jpg'
+  avatar: '/images/kevinj.jpg'
 
 
 #-------------------------------
 # Hero Settings
 hero:
-  title: Kevin Jeswani (under construction)
-  description: Data Science | Engineering Automation 
+  title: Kevin Jeswani
+  description: Data Science | Engineering Automation
   image: '/images/1001.jpg'
 
 

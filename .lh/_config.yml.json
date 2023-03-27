@@ -1,0 +1,30 @@
+{
+    "sourceFile": "_config.yml",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 3,
+            "patches": [
+                {
+                    "date": 1679911103162,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1679911238615,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -10,9 +10,9 @@\n #-------------------------------\n # Author Settings\n author:\n   name: Kevin Jeswani\n-  avatar: '/images/1001.jpg'\n+  avatar: '/images/1008.jpg'\n \n \n #-------------------------------\n # Hero Settings\n"
+                },
+                {
+                    "date": 1679911545430,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -17,9 +17,9 @@\n #-------------------------------\n # Hero Settings\n hero:\n   title: Kevin Jeswani\n-  description: Data Science | Engineering Automation\n+  description: Data Science | Engineering Automation (WEB)\n   image: '/images/1001.jpg'\n \n \n #-------------------------------\n"
+                },
+                {
+                    "date": 1679916610251,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -16,10 +16,10 @@\n \n #-------------------------------\n # Hero Settings\n hero:\n-  title: Kevin Jeswani\n-  description: Data Science | Engineering Automation (WEB)\n+  title: Kevin Jeswani (under construction)\n+  description: Data Science | Engineering Automation \n   image: '/images/1001.jpg'\n \n \n #-------------------------------\n"
+                }
+            ],
+            "date": 1679911103162,
+            "name": "Commit-0",
+            "content": "#-------------------------------\n# General Site Settings\ntitle: KJ\nlogo: # You can add own logo. For example '/images/logo.png'.\ndescription: Kevin Jeswani – Data Science Portfolio & Blog\nbaseurl: \"\" # The subpath of your site, e.g. /blog\nurl: \"kevinjeswani.github.io\" # The base hostname & protocol for your site, e.g. http://example.com\n\n\n#-------------------------------\n# Author Settings\nauthor:\n  name: Kevin Jeswani\n  avatar: '/images/1001.jpg'\n\n\n#-------------------------------\n# Hero Settings\nhero:\n  title: Kevin Jeswani\n  description: Data Science | Engineering Automation\n  image: '/images/1001.jpg'\n\n\n#-------------------------------\n# Contact Settings\ncontact:\n  email:  # not available for now - create business one\n  description: \"Hit me up here or on <a href='https://linkedin.com/in/kevinjeswani'>LinkedIn</a>!\" # Add a description of your formm\n\n# NOTE\n# Norlin theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.\n\n\n#-------------------------------\n# Footer section\n# Example of adding a new link to the footer - {icon: \"ion-logo-github\", link: \"https://github.com\"}\n# Other icons can be found at https://ionicons.com/v4/\nsocial:\n- {icon: \"ion-logo-linkedin\", link: \"https://linkedin.com/in/kevinjeswani\"}\n#- {icon: \"ion-logo-facebook\", link: \"https://facebook.com\"}\n#- {icon: \"ion-logo-dribbble\", link: \"https://dribbble.com\"}\n#- {icon: \"ion-logo-instagram\", link: \"https://instagram.com\"}\n#- {icon: \"ion-logo-pinterest\", link: \"https://pinterest.com\"}\n#- {icon: \"ion-logo-youtube\", link: \"https://youtube.com\"}\n- {icon: \"ion-logo-github\", link: \"kevinjeswani.github.io\"}\n#- {icon: \"ion ion-logo-vimeo\", link: \"https://vimeo.com/\"}\n\n\n#-------------------------------\n# Comment Section (Disqus)\ndisqus-identifier: # NA for now - Add your shortname for Disqus Comment. For example anvodstudio-demo\n\n\n#-------------------------------\n# Google Analytics\ngoogle-analytics: # Add your identifier. For example UA-99631805-1.\n\n\n#-------------------------------\n# Newsletter\nmailchimp:  # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.\nmailchimp-identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e\n\n\n#-------------------------------\n# Build settings\nmarkdown: kramdown\npermalink: pretty\nplugins:\n  - jekyll-paginate\n  - jekyll-sitemap\n  - jekyll/tagging\n\npaginate: 8\npaginate_path: \"/page/:num\"\n\n# Pages Path\ndefaults:\n  - scope:\n      path: '_pages'\n    values:\n      permalink: /:basename:output_ext\n\ninclude:\n  - _pages\n\n# Tags\ntag_page_dir:         tag\ntag_page_layout:      tag_page\ntag_permalink_style:  pretty\n\nsass:\n  sass_dir: _sass\n  style: compressed"
+        }
+    ]
+}

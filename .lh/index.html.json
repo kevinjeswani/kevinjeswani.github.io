@@ -1,0 +1,18 @@
+{
+    "sourceFile": "index.html",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1679917020465,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1679917020465,
+            "name": "Commit-0",
+            "content": "---\nlayout: default\n---\n\n<!-- begin hero -->\n{% if site.hero.image %}\n<section class=\"hero\">\n  <div class=\"hero__inner\">\n    <div class=\"hero__image\">\n      <img class=\"lazy\" data-src=\"{{site.baseurl}}{{site.hero.image}}\" alt=\"{{site.hero.title}}\">\n    </div>\n    <div class=\"hero__content\">\n      <h1 class=\"hero__title\">{{site.hero.title}}</h1>\n      <p class=\"hero__desc\">{{site.hero.description}}</p>\n    </div>\n  </div>\n</section>\n{% else %}\n<section class=\"hero-without-image\">\n  <div class=\"hero-inner\">\n    <div class=\"hero-content\">\n      <h1 class=\"hero__title\">{{site.hero.title}}</h1>\n      <p class=\"hero__desc\">{{site.hero.description}}</p>\n    </div>\n  </div>\n</section>\n{% endif %}\n<!-- begin hero -->\n\n{% include featured-posts.html %}\n\n<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col col-12\">\n      <div class=\"container__inner\">\n        <div class=\"row grid\">\n          {% if site.posts.size > 0 %}\n            {% for post in paginator.posts %}\n              {% include article-content.html %}\n            {% endfor %}\n          {% endif %}\n        </div>\n      </div>\n    </div>\n  </div>\n</div>\n\n{% include pagination.html %}"
+        }
+    ]
+}
