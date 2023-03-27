@@ -14,7 +14,7 @@ Foreign Exchange Rate Forecasting
 -	Performed a grid-search cross-validation hyperparamter tuning of XGBoost, RandomForest, CatBoost, & LGBoost time-series regressors (SkForecast) and built a LSTM-RNN (PyTorch-Keras) regressor, incorporating exogenous variables
 	IN PROGRESS: 
 - Upgrading forecasting framework with GluonTS
-- Application to Tech and Semiconductor stocks
+- Application to tech and semiconductor stocks
 
 # Historical Sales Analysis of Activewear Startup (Real Client) - Ongoing
 -	Examined $1.5 mil. of sales data of a recently-acquired activewear firm to provide the new owner with insight on current/historical product lines with highest sales and regions with greatest concentration of sales, to streamline future product offerings/development and for region-/demographics-specific marketing
@@ -27,7 +27,7 @@ IN PROGRESS:
 -	Utilized Auto-ML (PyCaret) for regressor model selection and preliminary hyperparameter selection
 -	Hyperparamter tuning, auto-encoding, cross-validation, & ensembling of RandomForest, Extra Tree, and XGBoost
 
-# [Online Retail Competitor Intelligence for 2 Real Clients]()
+# [Online Retail Competitor Intelligence for 2 Real Clients](https://github.com/kevinjeswani/Lazada_Scraping)
 -	Scraped 4000+ Lazada product pages of clients, their competitors, and similar recommended products (with Selenium)
 -	Derived insight on comparative prices, discounts, & ratings across similar items. Assessed text similarity between the clients’ products and similar items using SpaCy, to find and report suspected “copy-cat” posts
 
