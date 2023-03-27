@@ -1,0 +1,22 @@
+{
+    "sourceFile": "_layouts/page.html",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 1,
+            "patches": [
+                {
+                    "date": 1679931926968,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1679931936226,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +1,38 @@\n-y\n\\ No newline at end of file\n+---\n+layout: default\n+---\n+\n+<!-- begin hero -->\n+{% if page.image %}\n+<section class=\"hero\">\n+  <div class=\"hero__inner\">\n+    <div class=\"hero__image\">\n+      <img class=\"lazy\" data-src=\"{{site.baseurl}}{{page.image}}\" alt=\"{{page.title}}\">\n+    </div>\n+    <div class=\"hero__content\">\n+      <h1 class=\"hero__title\">{{page.title}}</h1>\n+    </div>\n+  </div>\n+</section>\n+{% else %}\n+<section class=\"hero-without-image\">\n+  <div class=\"hero-inner\">\n+    <div class=\"hero-content\">\n+      <h1 class=\"hero__title\">{{page.title}}</h1>\n+    </div>\n+  </div>\n+</section>\n+{% endif %}\n+<!-- end hero -->\n+\n+<!-- begin page -->\n+<div class=\"container\">\n+  <article class=\"page animate\">\n+    <div class=\"page__content\">\n+      <div class=\"page-content\">\n+        {{ content }}\n+      </div>\n+    </div>\n+  </article>\n+</div>\n+<!-- end page -->\n"
+                }
+            ],
+            "date": 1679931926968,
+            "name": "Commit-0",
+            "content": "y"
+        }
+    ]
+}

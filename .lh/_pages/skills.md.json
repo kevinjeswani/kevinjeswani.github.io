@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 13,
+            "activePatchIndex": 14,
             "patches": [
                 {
                     "date": 1679916771211,
@@ -60,6 +60,10 @@
                 {
                     "date": 1679924661005,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -4,10 +4,10 @@\n permalink: /Skills/\n image: '/images/1012.jpg'\n ---\n \n-X\n \n+\n ***\n <!DOCTYPE html>\n <!--=== Coding by CodingLab | www.codinglabweb.com === -->\n <html lang=\"en\">\n"
+                },
+                {
+                    "date": 1679935446235,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -100,9 +100,9 @@\n     <h3>\n         <span class=\"skill_name\">Excel</span>\n     </h3>\n     <div class=\"skill_bar\">\n-        <div class=\"skill_active\" style=\"width: 80%;\">\n+        <div class=\"skill_active\" style=\"width: 8%;\">\n         </div>\n         <span>97%</span>\n     </div>\n </div>\n"
                 }
             ],
             "date": 1679916771211,
