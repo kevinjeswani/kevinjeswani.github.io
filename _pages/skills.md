@@ -209,7 +209,7 @@ Currently working on honing my knowledge of deep-learning and MLOps.
     <div class="skill_bar">
         <div class="skill_active" style="width: 50%;">
         </div>
-        <span>50</span>
+        <span>50%</span>
     </div>
 </div>
 <div class="skill skill-small">
@@ -273,7 +273,7 @@ Currently working on honing my knowledge of deep-learning and MLOps.
     <div class="skill_bar">
         <div class="skill_active" style="width: 40%;">
         </div>
-        <span>40</span>
+        <span>40%</span>
     </div>
 </div>
 
@@ -285,7 +285,7 @@ Currently working on honing my knowledge of deep-learning and MLOps.
     <div class="skill_bar">
         <div class="skill_active" style="width: 100%;">
         </div>
-        <span>100</span>
+        <span>100%</span>
     </div>
 </div>
 <div class="skill skill-small">
@@ -295,7 +295,7 @@ Currently working on honing my knowledge of deep-learning and MLOps.
     <div class="skill_bar">
         <div class="skill_active" style="width: 100%;">
         </div>
-        <span>100</span>
+        <span>100%</span>
     </div>
 </div>
 <div class="skill skill-small">
@@ -305,7 +305,7 @@ Currently working on honing my knowledge of deep-learning and MLOps.
     <div class="skill_bar">
         <div class="skill_active" style="width: 100%;">
         </div>
-        <span>100</span>
+        <span>100%</span>
     </div>
 </div>
 <div class="skill skill-small">
@@ -315,7 +315,7 @@ Currently working on honing my knowledge of deep-learning and MLOps.
     <div class="skill_bar">
         <div class="skill_active" style="width: 25%;">
         </div>
-        <span>25</span>
+        <span>25%</span>
     </div>
 </div>
 <div class="skill skill-small">
@@ -325,6 +325,6 @@ Currently working on honing my knowledge of deep-learning and MLOps.
     <div class="skill_bar">
         <div class="skill_active" style="width: 40%;">
         </div>
-        <span>40</span>
+        <span>40%</span>
     </div>
 </div>
