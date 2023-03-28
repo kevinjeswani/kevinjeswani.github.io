@@ -15,9 +15,9 @@ Currently working on honing my knowledge of deep-learning and MLOps.
   border-bottom: 1px solid #eee;
 }
 .skill_name {
-  font-size: 1.1em;
+  font-size: 0.85em;
   font-weight: 600;
-  color: #333;
+  color: #ffffff;
 }
 .skill_bar {
   height: 20px;
