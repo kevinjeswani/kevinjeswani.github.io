@@ -10,7 +10,7 @@ I'm Kevin Jeswani - born & raised Filipino, Indian by blood, and Canadian at hea
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/1014.jpg">
+    <img src="/images/1014.JPG">
   </div>
 </div>
 
