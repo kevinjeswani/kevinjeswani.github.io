@@ -7,11 +7,8 @@ image: '/images/1010.jpg'
 
 I'm Kevin Jeswani - born & raised Filipino, Indian by blood, and Canadian at heart.
 <br>
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/1015.jpg">
-  </div>
-  <em>Gallery / <a href="" target="_blank">Unsplash</a></em>
+<div style="text-align:center">
+  ![img]({{site.baseurl}}/images/1015.jpg)
 </div>
 <br>
 This is a showcase of my data cience projects, a domain I've recently pivoted to after completing a post-graduate diploma in Applied Machine Learning & Big Data from the Toronto Institute of Data Science and Technology (WeCloud Data). I have a confident grasp of applying data science methods to various business cases. I am currently strengthening my knowledge base in MLOps and deep learning.
