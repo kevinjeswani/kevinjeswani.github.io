@@ -1,4 +1,0 @@
-RewriteEngine on
-RewriteCond %{HTTP_HOST} ^kevinjeswani\.github\.io$ [OR]
-RewriteCond %{HTTP_HOST} ^www\.kevinjeswani\.github\.io$
-RewriteRule ^(.*)$ https://kevinjeswani.netlify.app/$1 [L,R=301]
